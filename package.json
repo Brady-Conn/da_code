@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "html-table-to-json": "^1.0.0"
+  }
+}
